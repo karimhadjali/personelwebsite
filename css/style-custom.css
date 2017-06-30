@@ -1,0 +1,77 @@
+﻿/* Color Scheme - Custom */
+
+/* Please replace - #2951d5 */
+
+a {
+	color: #2951d5;
+}
+
+a:hover, a:focus {
+	color: #2951d5;
+}
+
+body.fp-section-active .navbar-nav>li>a:hover {
+	color: #2951d5;
+}
+
+body.fp-section-active .navbar-nav>li.active>a {
+	color: #2951d5;
+	box-shadow: inset 0 -1px 0 #2951d5;
+}
+
+.form-control.focus-select:focus {
+	border-color: #2951d5;
+}
+
+.icon-box .icon-box-icon {
+    color: #2951d5;
+}
+
+.icon-box-2 .icon-box-icon {
+	color: #2951d5;
+}
+
+.progress-1 .progress-bar {
+	background-color: #2951d5;
+}
+
+.progress-2 .progress-bar {
+	background-color: #2951d5;
+}
+
+.button {
+	background-color: #2951d5;
+}
+
+.button.button-link,
+.button.button-link i {
+	color: #2951d5;
+}
+
+.button.button-modern {
+	color: #2951d5;
+}
+
+.button.button-modern.alternative {
+	border: 1px solid #2951d5;
+}
+
+.button.button-modern i,
+.button.button-modern:hover,
+.button.button-modern:hover i {
+	color: #2951d5;
+}
+
+.button.button-modern::before {
+	border-top: 1px solid #2951d5;
+	border-left: 1px solid #2951d5;
+}
+
+.button.button-modern::after {
+	border-bottom: 1px solid #2951d5;
+	border-right: 1px solid #2951d5;
+}
+
+.highlight {
+	color: #2951d5;
+}
